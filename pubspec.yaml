@@ -1,6 +1,6 @@
 # See: https://www.dartlang.org/tools/pub/pubspec
 name: conreality
-version: 0.0.0
+version: 0.0.1
 description: >-
   Conreality Software Development Kit (SDK)
 author: Conreality.org <conreality@googlegroups.com>
