@@ -2,8 +2,8 @@
 name: conreality
 version: 0.0.0
 description: >-
-  Conreality Software Development Kit (SDK) for Dart.
-author: Arto Bendiken <arto@conreality.org>
+  Conreality Software Development Kit (SDK)
+author: Conreality.org <conreality@googlegroups.com>
 homepage: https://sdk.conreality.org/dart/
 documentation:
 dependencies:
