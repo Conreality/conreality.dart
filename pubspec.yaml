@@ -7,6 +7,8 @@ author: Conreality.org <conreality@googlegroups.com>
 homepage: https://sdk.conreality.org/dart/
 documentation:
 dependencies:
+  grpc: ^0.6.5
+  protobuf: ^0.10.4
 dev_dependencies:
   test: '>=1.3.4 <2.0.0'
 dependency_overrides:
